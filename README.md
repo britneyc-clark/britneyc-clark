@@ -1,6 +1,15 @@
 # Hi, I'm Britney 👋
 
-I'm an accounting professional and CPA candidate with hands-on experience in data analytics, internal audit, and financial compliance. My background spans cost basis operations, AML/CDD audit support, and tax accounting — and I'm actively building my Python skills to deepen my analytics toolkit.
+I'm an accounting professional and CPA candidate with hands-on experience in data analytics, internal audit, and financial compliance. My background spans cost basis operations, AML/CDD audit support, and tax accounting — and I'm actively building my Python and SQL skills to deepen my analytics toolkit.
+
+---
+
+## 📚 Currently Learning
+
+- **Python** — building toward data analysis and audit automation
+- **SQL** — deepening query writing for analytics use cases (Snowflake, relational databases)
+- **Automation** — repeatable workflows and scripting for audit efficiency
+- **AI tools** — using Claude and other tools to accelerate learning, get feedback on my code, and explore concepts across Python, SQL, and automation
 
 ---
 
